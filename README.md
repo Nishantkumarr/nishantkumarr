@@ -1,12 +1,13 @@
 # Hi guys 👋  I'm Nishant Kumar
 
+<p>I am a final-year Computer Science Engineering student that appreciates connecting ideas from many disciplines, 
+  individuals from various teams, and applications from various industries. A problem-solver with a good sense of 
+  design and integration.Familiar with concepts like <b> Object-Oriented Programming,  Database Management Systems,  Operating Systems </b>and more.
+</p>
+ 
+ <hr>
 
-
-
-
-- 🔭 I'm pursuing a Bachelor's degree in Technology at that time. 
-  
-- 🌱 I’m currently learning React JS and Data Visualization
+- 🌱 I’m currently learning React JS and Data Visualization.
 
 - 👯 Python/Django Developer
   
@@ -26,7 +27,8 @@
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=Nishantkumarr&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs&include_all_commits=true">
 </p>
+<p align="center">
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nishantkumarr)  
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishantkumarr&label=Profile%20views&color=0e75b6&style=flat" alt="nishantkumarr" /> </p>
- -->
+</p>
