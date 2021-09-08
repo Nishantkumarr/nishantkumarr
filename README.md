@@ -1,11 +1,10 @@
-<p align="center">
 # Hi guys 👋  I'm Nishant Kumar
 
 
 
 
 
-- 🔭 At that movement I am pursuing my Bachelors in Technology (BTech).  
+- 🔭 I'm pursuing a Bachelor's degree in Technology at that time. 
   
 - 🌱 I’m currently learning React JS and Data Visualization
 
