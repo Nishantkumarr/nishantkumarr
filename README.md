@@ -1,11 +1,4 @@
 <p align="center">
-
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Coder GIF" width="600" height="300">
-  
-  
-<!--    <img src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" alt="Coder GIF" width="600" height="300"> -->
-</p>
-
 # Hi guys 👋  I'm Nishant Kumar
 
 
@@ -13,10 +6,15 @@
 
 
 - 🔭 At that movement I am pursuing my Bachelors in Technology (BTech).  
+  
 - 🌱 I’m currently learning React JS and Data Visualization
+
 - 👯 Python/Django Developer
+  
 - 💬 Ask me about  **C++** **Python** **Django** **OpenCv**.
+  
 - 📫 How to reach me: mailittonishantkumar@gmail.com
+  
 - ⚡  Fun fact: I debug with **print("Hello")**  statements.
 
  <hr>
