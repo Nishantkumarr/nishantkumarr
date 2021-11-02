@@ -1,4 +1,5 @@
-# Hi guys 👋  I'm Nishant Kumar
+# Hi guys 👋  I'm Nishant Kumar              ![](https://komarev.com/ghpvc/?username=nishantkumarr&color=green)
+
 
 <p>I am a final-year Computer Science Engineering student that appreciates connecting ideas from many disciplines, 
   individuals from various teams, and applications from various industries. A problem-solver with a good sense of 
@@ -30,5 +31,4 @@
 <p align="center">
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nishantkumarr)  
-
 </p>
