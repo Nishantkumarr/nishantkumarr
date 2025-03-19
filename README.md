@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning React JS and Data Visualization.
 
-- 👯 Python/Django Developer
+- 👯 Software Developer
   
 - 💬 Ask me about  **C++** **Python** **Django** **OpenCv**.
   
