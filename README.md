@@ -1,34 +1,67 @@
-# Hi guys 👋  I'm Nishant Kumar              ![](https://komarev.com/ghpvc/?username=nishantkumarr&color=green)
+# 👋 Hi, I'm Nishant Kumar
 
+🎯 **Java Backend Developer | 3+ YOE | Spring Boot | Microservices | REST APIs**
 
-<p>I am a final-year Computer Science Engineering student that appreciates connecting ideas from many disciplines, 
-  individuals from various teams, and applications from various industries. A problem-solver with a good sense of 
-  design and integration.Familiar with concepts like <b> Object-Oriented Programming,  Database Management Systems,  Operating Systems </b>and more.
-</p>
- 
- <hr>
+🚀 Passionate about building scalable, secure, and high-performance backend systems. I specialize in Java and Spring Boot ecosystems, and I've worked extensively on enterprise-grade applications in the banking and insurance sectors.
 
-- 🌱 I’m currently learning React JS and Data Visualization.
+---
 
-- 👯 Software Developer
-  
-- 💬 Ask me about  **C++** **Python** **Django** **OpenCv**.
-  
-- 📫 How to reach me: mailittonishantkumar@gmail.com
-  
-- ⚡  Fun fact: I debug with **print("Hello")**  statements.
+## 🔧 Tech Stack
 
- <hr>
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/></a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/> </a>   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/> </a>   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>   <a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
-</p>
-<hr>
-<p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=Nishantkumarr&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs&include_all_commits=true">
-</p>
-<p align="center">
+- **Languages:** Java, C++, SQL  
+- **Frameworks:** Spring, Spring Boot, Spring Cloud, Hibernate  
+- **Concepts:** Data Structures & Algorithms, Design Patterns, OOP  
+- **Tools:** Git, REST APIs, Agile, JIRA
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nishantkumarr)  
-</p>
+---
+
+## 💼 Experience
+
+### **Software Engineer**  
+**Newgen Software | Noida, India**  
+📆 *June 2022 – Present*
+
+- Developed backend components for core insurance modules—billing workflows, premium computation, compliance.
+- Engineered secure document watermarking via REST APIs for digital onboarding in banking.
+- Delivered a plug-and-play Account Opening Accelerator for Middle East banks.
+- Led UAT cycles, collaborating with QA/Product, resulting in a 60% bug reduction.
+- Worked in Agile teams using Java, Spring Boot, Microservices.
+
+---
+
+## 🚀 Key Projects
+
+### **Account Opening Accelerator (India & Middle East)**
+- Built DKYC, API-based identity verification, deduplication, and dynamic workflows.
+- Seamless integration with external/internal APIs for regulatory compliance.
+- Modules: Individual/Joint accounts, Query Handling, Account Review.
+
+### **Group Life & Renewal Services (Insurance)**
+- Automated policy onboarding, endorsements, renewals for a Philippines client.
+- Dynamic ingestion of user data sheets and premium calculation logic via optimized SQL procedures.
+- Increased backend efficiency and reduced manual interventions.
+
+---
+
+## 🏆 Achievements
+
+- 🏅 *High Five Award* for dedication during User Acceptance Testing phase.
+
+---
+
+## 🎓 Education
+
+**B.Tech – Computer Science**  
+*Guru Gobind Singh Indraprastha University*  
+📆 *2018 – 2022*  
+**Coursework:** DSA, DBMS, OOP, Software Engineering
+
+---
+
+## 📫 Connect with Me
+
+- 📧 Email: [menishantkumarr@gmail.com](mailto:menishantkumarr@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/nishantkumarrr](https://linkedin.com/in/nishantkumarrr)  
+- 🖥️ GitHub: [github.com/Nishantkumarr](https://github.com/Nishantkumarr)
+
+---
